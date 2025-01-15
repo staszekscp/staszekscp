@@ -7,7 +7,7 @@
   <li>I currently work on React Native brownfield integrations 👷</li>
   <li>I mostly tackle build errors, and play with native code 🏗️</li>
   <li>I've learnt 8 languages 🇵🇱🇬🇧🇪🇸🇧🇷🇮🇹🇫🇮🇭🇷🇨🇿</li>
-  <li>I used to be a tour guide in Kraków, Poland 🇵🇱</li>
+  <li>I'm a tour guide in Kraków, Poland 🇵🇱</li>
   <li>I've visited all 1020 polish cities ⛪</li>
 </ul>
 </p>
